@@ -6,12 +6,18 @@ import cv2 as cv
 import cv2    
 import numpy as np
 
+
 def Click(event,x,y,flag, userdata) : 
     if(event == cv2.EVENT_LBUTTONDOWN):
         print('You have clicked')
         print(x,y)
-        print(img[y,x])
-    print('Done')
+        img_rgb = np.array
+        img_rgb = img[y,x]
+        cushion  = 0
+        cushion = img_rgb[0]
+        img_rgb[0] = img_rgb[2]
+        img_rgb[2] = cushion
+        print(img_rgb)
 
 img = cv2.imread('image.png',1)
 cv2.namedWindow('Window')
