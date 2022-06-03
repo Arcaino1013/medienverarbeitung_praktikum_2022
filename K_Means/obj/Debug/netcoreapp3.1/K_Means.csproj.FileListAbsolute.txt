@@ -1,0 +1,13 @@
+G:\Github\medienverarbeitung_praktikum_2022\K_Means\bin\Debug\netcoreapp3.1\K_Means.exe
+G:\Github\medienverarbeitung_praktikum_2022\K_Means\bin\Debug\netcoreapp3.1\K_Means.deps.json
+G:\Github\medienverarbeitung_praktikum_2022\K_Means\bin\Debug\netcoreapp3.1\K_Means.runtimeconfig.json
+G:\Github\medienverarbeitung_praktikum_2022\K_Means\bin\Debug\netcoreapp3.1\K_Means.runtimeconfig.dev.json
+G:\Github\medienverarbeitung_praktikum_2022\K_Means\bin\Debug\netcoreapp3.1\K_Means.dll
+G:\Github\medienverarbeitung_praktikum_2022\K_Means\bin\Debug\netcoreapp3.1\K_Means.pdb
+G:\Github\medienverarbeitung_praktikum_2022\K_Means\obj\Debug\netcoreapp3.1\K_Means.csprojAssemblyReference.cache
+G:\Github\medienverarbeitung_praktikum_2022\K_Means\obj\Debug\netcoreapp3.1\K_Means.AssemblyInfoInputs.cache
+G:\Github\medienverarbeitung_praktikum_2022\K_Means\obj\Debug\netcoreapp3.1\K_Means.AssemblyInfo.cs
+G:\Github\medienverarbeitung_praktikum_2022\K_Means\obj\Debug\netcoreapp3.1\K_Means.csproj.CoreCompileInputs.cache
+G:\Github\medienverarbeitung_praktikum_2022\K_Means\obj\Debug\netcoreapp3.1\K_Means.dll
+G:\Github\medienverarbeitung_praktikum_2022\K_Means\obj\Debug\netcoreapp3.1\K_Means.pdb
+G:\Github\medienverarbeitung_praktikum_2022\K_Means\obj\Debug\netcoreapp3.1\K_Means.genruntimeconfig.cache
